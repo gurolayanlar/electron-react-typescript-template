@@ -1,5 +1,5 @@
 # Electron Template using React and Typescript
-This repository is simple template for ElectronJS using React with Typescript
+This repository is simple template for ElectronJS using React with Typescript. We have implement Material-UI for styles.
 
 ## Getting Started
 Clone this repo and run the following commands.

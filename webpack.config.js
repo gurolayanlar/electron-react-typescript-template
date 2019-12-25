@@ -21,7 +21,7 @@ module.exports = [
   },
   {
     mode: "development",
-    entry: "./src/react.tsx",
+    entry: "./src/app.tsx",
     target: "electron-renderer",
     devtool: "source-map",
     module: {
@@ -35,7 +35,7 @@ module.exports = [
     },
     output: {
       path: __dirname + "/dist",
-      filename: "react.js"
+      filename: "app.js"
     },
     plugins: [
       new HtmlWebpackPlugin({
