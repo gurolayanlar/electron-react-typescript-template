@@ -1,5 +1,5 @@
 # Electron Template using React and Typescript
-This repository is simple template for ElectronJS using React with Typescript. We have implement Material-UI for styles.
+This repository is simple template for ElectronJS using React with Typescript. I have implement Material-UI for styles.
 
 <p align="left">
     <img alt="login" src="login.png" width="480" />
